@@ -1,0 +1,36 @@
+,Diagnosis,Epilepsy,mTORopathy,Type,Race,Sex,Age_at_surgery,Region,replicate,sample_name,Group
+Control_3,HS,Control,Control,Control,Japanese,M,15,R-TL,3,Control_3,Control
+Control_4,HS,Control,Control,Control,Japanese,M,20,R-TL,4,Control_4,Control
+Control_7,HS,Control,Control,Control,Japanese,M,29,R-FL,7,Control_7,Control
+Control_9,HS,Control,Control,Control,Japanese,M,35,R-TL,9,Control_9,Control
+Control_13,HS,Control,Control,HS,Japanese,F,4,R-TL,13,Control_13,Control
+FCDI_1,FCD Type I,Epilepsy,non-mTOR,FCDI,Japanese,F,12,L-FL,1,FCDI_1,FCDI
+FCDI_2,FCD Type I,Epilepsy,non-mTOR,FCDI,Japanese,M,3,R-TL,2,FCDI_2,FCDI
+FCDI_3,FCD Type I,Epilepsy,non-mTOR,FCDI,Japanese,M,5,R-FL,3,FCDI_3,FCDI
+FCDI_4,FCD Type I,Epilepsy,non-mTOR,FCDI,Japanese,M,2,L-TL,4,FCDI_4,FCDI
+FCDI_5,FCD Type I,Epilepsy,non-mTOR,FCDI,Japanese,M,0,L-FL,5,FCDI_5,FCDI
+FCDII_1,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,M,42,R-FL,1,FCDII_1,mTOR
+FCDII_2,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,F,6,R-FL,2,FCDII_2,mTOR
+FCDII_3,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,M,12,R-FL,3,FCDII_3,mTOR
+FCDII_4,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,F,0,L-TL,4,FCDII_4,mTOR
+FCDII_5,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,M,10,R-FL,5,FCDII_5,mTOR
+FCDII_6,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,F,1,R-TL,6,FCDII_6,mTOR
+FCDII_12,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,F,38,L-FL,12,FCDII_12,mTOR
+FCDII_14,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,M,3,L-FL,14,FCDII_14,mTOR
+FCDII_15,FCD Type IIb,Epilepsy,mTOR,FCDII,Japanese,M,2,L-FL,15,FCDII_15,mTOR
+FCDII_16,FCD Type IIb,Epilepsy,mTOR,FCDII,Japanese,M,9,R-FL,16,FCDII_16,mTOR
+FCDII_17,FCD Type IIa,Epilepsy,mTOR,FCDII,Japanese,F,1,R-TL,17,FCDII_17,mTOR
+FCDII_18,FCD Type IIb,Epilepsy,mTOR,FCDII,Japanese,F,7,L-FL,17,FCDII_18,mTOR
+FCDIII_2,HS with FCD,Epilepsy,non-mTOR,FCDIII,Japanese,M,0,L-TL,2,FCDIII_2,FCDIII
+FCDIII_4,HS with FCD,Epilepsy,non-mTOR,FCDIII,Japanese,M,16,R-TL,4,FCDIII_4,FCDIII
+FCDIII_5,HS with FCD,Epilepsy,non-mTOR,FCDIII,Japanese,F,11,L-TL,5,FCDIII_5,FCDIII
+HME_1,HME,Epilepsy,mTOR,HME,Japanese,F,9,L-PL,1,HME_1,mTOR
+HME_2,HME,Epilepsy,mTOR,HME,Japanese,F,1,R-FL,2,HME_2,mTOR
+HME_3,HME,Epilepsy,mTOR,HME,Japanese,M,0,R-FL,3,HME_3,mTOR
+HME_11,HME,Epilepsy,mTOR,HME,Japanese,M,0,R-FL,11,HME_11,mTOR
+HME_12,HME,Epilepsy,mTOR,HME,Japanese,M,0,L-FL,12,HME_12,mTOR
+HME_13,HME,Epilepsy,mTOR,HME,Japanese,F,0,L-FL,13,HME_13,mTOR
+HME_14,HME,Epilepsy,mTOR,HME,Japanese,F,0,R-FL,14,HME_14,mTOR
+TSC_1,TSC,Epilepsy,mTOR,TSC,Japanese,M,5,R-FL,1,TSC_1,mTOR
+TSC_2,TSC,Epilepsy,mTOR,TSC,Japanese,M,0,L-TL,2,TSC_2,mTOR
+TSC_5,TSC,Epilepsy,mTOR,TSC,Japanese,M,1,R-FL/TL,5,TSC_5,mTOR
